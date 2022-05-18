@@ -1,3 +1,10 @@
+'''@email [brunosilvamardonado@gmail.com]
+## @create date 2022-05-17 21:09:29
+## @modify date 2022-05-17 21:09:29
+## @desc [Scrapper Python 3.10 ]
+##@author [Bruno Martins]
+'''
+
 import requests
 
 #link para bscar dado usado na API
